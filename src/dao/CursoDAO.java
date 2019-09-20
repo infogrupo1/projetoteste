@@ -118,4 +118,8 @@ public class CursoDAO {
         return null;
     }
 
+    public void excluirCurso(int id) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
 }
